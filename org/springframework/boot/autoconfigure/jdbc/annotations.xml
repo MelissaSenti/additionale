@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.Hikari com.zaxxer.hikari.HikariDataSource dataSource(org.springframework.boot.autoconfigure.jdbc.DataSourceProperties)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
